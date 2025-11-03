@@ -14,14 +14,26 @@
 
 ---
 
-### 🛠️ Key Skills & Tools
+### 🎯 Core Interests
+
+[![AI/ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://)
+[![Backend Development](https://img.shields.io/badge/Backend%20Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://)
+
+---
+
+### 🛠️ Tech Stack
 
 *[ ✏️ 잠시 후 알려주실 '다룰 줄 아는 툴'들로 이 섹션을 채워주세요! ]*
 
-* **Mobile:** * `Flutter`, `Dart`
-* **AI & Data:** * `Python`, `Scikit-learn`, `Pandas`, `Numpy`, `SQL`
-* **Backend:** * `[ ✏️ Java, Spring, Flask 등 학습 중인 기술을 적어주세요 ]`
-* **Tools:** * `Git`, `[ ✏️ 그 외 사용 가능한 툴 (예: VS Code, Jupyter Notebook...) ]`
+| 구분 | 기술 |
+| :--: | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **AI & ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+*[ ✏️ 위 기술 스택에 Flutter 등 다른 기술 배지도 추가해 드릴까요? ]*
 
 ---
 
