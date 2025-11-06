@@ -1,4 +1,4 @@
-### 🎓 Training & Education
+### Training & Education
 
 * **삼성 아카데미 (Samsung Academy)** | **[ ✏️ 과정명, 예: AI/데이터 분석 과정 ]**
   * `2025.05 - (수료 예정)`
@@ -19,7 +19,7 @@
 
 ---
 
-### 🎯 Core Interests
+### Core Interests
 
 [![AI/ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://)
 [![AutoML](https://img.shields.io/badge/AutoML-90C418?style=for-the-badge&logo=PyCaret&logoColor=white)](https://)
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | 구분 | 기술 |
 | :--: | :--- |
@@ -44,7 +44,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 #### 1. CARGO AI (지능형 물류 최적화 플랫폼)
 * **기간:** `2025.07.07 - 2025.07.22`
@@ -72,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youyou-him&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="youyou-him's Contribution Graph" />
