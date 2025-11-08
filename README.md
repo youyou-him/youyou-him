@@ -49,8 +49,8 @@
 #### 1. CARGO AI (지능형 물류 최적화 플랫폼)
 * **기간:** `2025.07.07 - 2025.07.22`
 * **설명:** 전화, 문자 등 수동 배차 방식과 높은 공차율 문제를 AI로 해결하는 미들마일 물류 최적화 플랫폼입니다. [예측 - 추천 - 정산] 전 과정을 자동화합니다.
-* [cite_start]**역할:** **Back-end 및 AI 모델링** (LGBMRanker 기반 추천 시스템 개발 [cite: 551] [cite_start]및 공정성 피처(Fairness-aware) 반영 리랭킹 [cite: 562, 587-588])
-* [cite_start]**주요 기술:** `LightGBM (LGBMRanker)`, `Flask`, `Django`, `React`, `MySQL`, `Hive`, `Docker` [cite: 71, 333, 335, 342, 343, 551]
+* **역할:** **Back-end 및 AI 모델링** (LGBMRanker 기반 추천 시스템 개발 및 공정성 피처(Fairness-aware) 반영 리랭킹 [cite: 562, 587-588])
+* **주요 기술:** `LightGBM (LGBMRanker)`, `Flask`, `Django`, `React`, `MySQL`, `Hive`, `Docker` [cite: 71, 333, 335, 342, 343, 551]
 * **[GitHub Repository](https://github.com/youyou-him/cargo_ai)**
 
 <br>
