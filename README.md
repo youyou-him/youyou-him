@@ -49,15 +49,15 @@
 #### 1. CARGO AI (지능형 물류 최적화 플랫폼)
 * **기간:** `2025.07.07 - 2025.07.22`
 * **설명:** 전화, 문자 등 수동 배차 방식과 높은 공차율 문제를 AI로 해결하는 미들마일 물류 최적화 플랫폼입니다. [예측 - 추천 - 정산] 전 과정을 자동화합니다.
-* **역할:** **Back-end 및 AI 모델링** (LGBMRanker 기반 추천 시스템 개발 및 공정성 피처(Fairness-aware) 반영 리랭킹 [cite: 562, 587-588])
-* **주요 기술:** `LightGBM (LGBMRanker)`, `Flask`, `Django`, `React`, `MySQL`, `Hive`, `Docker` [cite: 71, 333, 335, 342, 343, 551]
+* **역할:** **Back-end 및 AI 모델링** (LGBMRanker 기반 추천 시스템 개발 및 공정성 피처(Fairness-aware) 반영 리랭킹)
+* **주요 기술:** `LightGBM (LGBMRanker)`, `Flask`, `Django`, `React`, `MySQL`, `Hive`, `Docker` 
 * **[GitHub Repository](https://github.com/youyou-him/cargo_ai)**
 
 <br>
 
 #### 2. AI 기반 수면 건강 코치 (AI-based Sleep Health Coach)
-* [cite_start]**기간:** `2025.06.18 - 2025.06.25` [cite: 860]
-* [cite_start]**설명:** 사용자 데이터를 기반으로 수면의 질을 예측하고(LightGBM) [cite: 1157][cite_start], 사용자 유형을 분류(K-Means)하여 [cite: 868] [cite_start]개인 맞춤형 수면 개선 가이드를 제공하는 Flask 기반 웹 서비스입니다. [cite: 853, 1031]
+* **기간:** `2025.06.18 - 2025.06.25` 
+* **설명:** 사용자 데이터를 기반으로 수면의 질을 예측하고(LightGBM) , 사용자 유형을 분류(K-Means)하여 개인 맞춤형 수면 개선 가이드를 제공하는 Flask 기반 웹 서비스입니다. [cite: 853, 1031]
 * [cite_start]**역할:** **데이터 수집, 전처리 및 분류 모델링** (Kaggle/KNHANES 데이터 통합 [cite: 1039, 1047][cite_start], SMOTE 불균형 처리 [cite: 1143-1144][cite_start], LightGBM/RF 모델 비교 및 튜닝 [cite: 1146-1147])
 * [cite_start]**주요 기술:** `Python`, `LightGBM`, `K-Means`, `Flask`, `Scikit-learn`, `SMOTE` [cite: 1005, 1018-1019, 1023, 1144, 1146]
 * **[GitHub Repository](https://github.com/youyou-him/sleep)**
