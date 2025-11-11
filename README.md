@@ -57,9 +57,9 @@
 
 #### 2. AI 기반 수면 건강 코치 (AI-based Sleep Health Coach)
 * **기간:** `2025.06.18 - 2025.06.25` 
-* **설명:** 사용자 데이터를 기반으로 수면의 질을 예측하고(LightGBM) , 사용자 유형을 분류(K-Means)하여 개인 맞춤형 수면 개선 가이드를 제공하는 Flask 기반 웹 서비스입니다. [cite: 853, 1031]
-* [cite_start]**역할:** **데이터 수집, 전처리 및 분류 모델링** (Kaggle/KNHANES 데이터 통합 [cite: 1039, 1047][cite_start], SMOTE 불균형 처리 [cite: 1143-1144][cite_start], LightGBM/RF 모델 비교 및 튜닝 [cite: 1146-1147])
-* [cite_start]**주요 기술:** `Python`, `LightGBM`, `K-Means`, `Flask`, `Scikit-learn`, `SMOTE` [cite: 1005, 1018-1019, 1023, 1144, 1146]
+* **설명:** 사용자 데이터를 기반으로 수면의 질을 예측하고(LightGBM) , 사용자 유형을 분류(K-Means)하여 개인 맞춤형 수면 개선 가이드를 제공하는 Flask 기반 웹 서비스입니다. 
+* **역할:** **데이터 수집, 전처리 및 분류 모델링** (Kaggle/KNHANES 데이터 통합 [cite: 1039, 1047][cite_start], SMOTE 불균형 처리, LightGBM/RF 모델 비교 및 튜닝)
+* **주요 기술:** `Python`, `LightGBM`, `K-Means`, `Flask`, `Scikit-learn`, `SMOTE` 
 * **[GitHub Repository](https://github.com/youyou-him/sleep)**
 
 <br>
