@@ -79,13 +79,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youyou-him&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="youyou-him's Contribution Graph" />
 </p>
 
+---
+
 ### 📬 Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ ✏️ 이메일 주소 입력 ])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[ ✏️ 링크드인 주소 입력 ])
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://[ ✏️ 블로그 주소 입력 ])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[ ✏️ 포트폴리오 사이트 주소 ])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](youyou28769@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.notion.so/2af4d98033f780f7a8a1ede71e462762?source=copy_link)
 
----
-연락처
-https://www.notion.so/2af4d98033f780f7a8a1ede71e462762?source=copy_link
