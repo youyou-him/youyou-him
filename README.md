@@ -78,3 +78,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youyou-him&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="youyou-him's Contribution Graph" />
 </p>
+
+연락처
+https://www.notion.so/2af4d98033f780f7a8a1ede71e462762?source=copy_link
