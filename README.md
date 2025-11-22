@@ -34,7 +34,7 @@
 
 | 구분 | 기술 |
 | :--: | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ! |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
 | **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-9C27B0?style=for-the-badge&logo=lightgbm&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006B00?style=for-the-badge&logo=xgboost&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-90C418?style=for-the-badge&logo=PyCaret&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-1A1A4C?style=for-the-badge&logo=optuna&logoColor=white) |
 | **NLP** | ![Gensim](https://img.shields.io/badge/Gensim-C1523B?style=for-the-badge&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white) |
