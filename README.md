@@ -47,7 +47,17 @@
 
 ### Projects
 
-#### 1. CARGO AI (지능형 물류 최적화 플랫폼)
+
+#### 1. CUBE AI
+* **기간:** 2025.09.30 - 2025.10.12
+* **설명:** 브라질 Olist E-Commerce Dataset을 활용하여 BG/NBD 및 Gamma-Gamma 확률론적 모델로 고객 생애 가치(CLTV)를 예측하고, 이를 바탕으로 맞춤형 마케팅 전략을 수립한 프로젝트입니다.
+* **역할:** 데이터 분석, 백엔드 로직 설계, 최종 발표 자료 제작을 담당했습니다. [cite: 2]
+* **주요 기술:** BG/NBD, Gamma-Gamma (CLTV 모델), GBM, ApexCharts (시각화), Tailwind CSS (대시보드), Python.
+* **[GitHub Repository](https://github.com/youyou-him/CUBE_AI)**
+
+<br>
+
+#### 2. CARGO AI (지능형 물류 최적화 플랫폼)
 * **기간:** `2025.07.07 - 2025.07.22`
 * **설명:** 전화, 문자 등 수동 배차 방식과 높은 공차율 문제를 AI로 해결하는 미들마일 물류 최적화 플랫폼입니다. [예측 - 추천 - 정산] 전 과정을 자동화합니다.
 * **역할:** **Back-end 및 AI 모델링** (LGBMRanker 기반 추천 시스템 개발 및 공정성 피처(Fairness-aware) 반영 리랭킹)
@@ -56,7 +66,7 @@
 
 <br>
 
-#### 2. AI 기반 수면 건강 코치 (AI-based Sleep Health Coach)
+#### 3. AI 기반 수면 건강 코치 (AI-based Sleep Health Coach)
 * **기간:** `2025.06.18 - 2025.06.25` 
 * **설명:** 사용자 데이터를 기반으로 수면의 질을 예측하고(LightGBM) , 사용자 유형을 분류(K-Means)하여 개인 맞춤형 수면 개선 가이드를 제공하는 Flask 기반 웹 서비스입니다. 
 * **역할:** **데이터 수집, 전처리 및 분류 모델링** (Kaggle/KNHANES 데이터 통합 [cite: 1039, 1047][cite_start], SMOTE 불균형 처리, LightGBM/RF 모델 비교 및 튜닝)
@@ -65,7 +75,7 @@
 
 <br>
 
-#### 3. 학생 학습 습관 기반 성적 예측 (Academic Performance Prediction)
+#### 4. 학생 학습 습관 기반 성적 예측 (Academic Performance Prediction)
 * **설명:** 학생의 생활 습관, 공부 시간, 정신 건강 등 요인을 기반으로 시험 점수를 예측하는 회귀 분석 프로젝트입니다. 앙상블(Voting, Stacking) 기법을 적용해 RMSE 5.53을 달성했습니다.
 * **역할:** **개인 프로젝트 (Solo Project)** (데이터 전처리, 피처 엔지니어링, 앙상블 모델 구축 및 SHAP 분석)
 * **주요 기술:** `Regression Models`, `Ensemble (Voting/Stacking)`, `Scikit-learn`, `XGBoost`, `LightGBM`
