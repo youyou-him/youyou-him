@@ -24,6 +24,24 @@
 
 ---
 
+### Awards & Certifications
+
+* **AI 추천 기반 실시간 화물차 매칭 플랫폼 최우수상** | 삼성 아카데미
+    * `2025.07.22` | **최우수상 (1위)** 수상
+    * 화물차와 화주 간의 실시간 매칭 최적화 알고리즘 설계 및 추천 시스템 구축 역량 인정
+
+* **Kaggle Bronze Medal** | Jigsaw - Agile Community Rules Classification
+    * `2025.10` | **전 세계 123위 / 2,445팀 (상위 5%)** 기록
+    * LLM(Qwen, Llama) 파인튜닝 및 대조 학습(Triplet Loss) 기반의 고정밀 분류 모델 구현
+
+* **단기특강 캠프 해커톤 대상** | 문화기술아카데미
+    * `2023.08.25` | **대상** 수상
+    * 창의적인 아이디어 도출 및 기술적 구현 능력을 바탕으로 한 프로젝트 기획 및 개발
+
+* **ADsP (데이터분석 준전문가)** | 한국데이터산업진흥원(Kdata)
+    * 데이터 이해, 데이터 분석 기획 및 통계적 분석 실무 지식 보유
+---
+
 ### Core Interests
 
 [![AI Agents & RAG](https://img.shields.io/badge/AI%20Agents%20%26%20RAG-000000?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/youyou-him)
@@ -50,7 +68,16 @@
 | **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 | **Tools & IDEs** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white) |
 ---
+### Jigsaw: Agile Community Rules Classification | Kaggle Bronze Medal (123위 / 2,445팀)
+* **LLM 및 다양한 NLP 모델을 활용한 규칙 위반 자동 분류 시스템 개발** (2025.10)
 
+- **핵심 성과**: 상위 5% 기록으로 Bronze Medal 수상 (최종 스코어 0.92154)
+- **전처리 혁신**: URL 내 도메인 및 경로에서 의미적 키워드(`domain:spam` 등)를 추출하는 전처리를 통해 광고 위반 검출 성능 극대화
+- **모델링 전략**:
+  - **대조 학습(Contrastive Learning)**: Triplet Loss를 적용해 규칙과 위반 사례 간 임베딩 거리 최적화 및 군집 중심점(Centroid) 기반 판정 로직 구현
+  - **앙상블 시스템**: Qwen, Llama(LLM)의 추론 능력과 DeBERTa의 문맥 파악 능력을 Rank-blending으로 결합해 예측 안정성 확보
+- **인프라 최적화**: vLLM과 DeepSpeed(ZeRO-2)를 활용해 대규모 모델의 추론 및 학습 효율성 제고
+  
 ### Projects
 
 #### 1. AURA (멀티 에이전트 협업 기반 지능형 매거진 자동 디자인 솔루션)
