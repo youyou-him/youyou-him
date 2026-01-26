@@ -11,7 +11,7 @@
 <br>
 
 * **한양사이버대학교** | **AI 응용소프트웨어학과**
-  * `2025.03 - 현재 (재학 중)`
+  * `2026.03 - 현재 (재학 중)`
 
 <br>
 
@@ -53,8 +53,25 @@
 
 ### Projects
 
+#### 1. AURA (멀티 에이전트 협업 기반 지능형 매거진 자동 디자인 솔루션)
+* **기간:** 2025.12.24 - 2026.01.15
+* **설명:** 텍스트와 이미지를 입력하면 멀티 에이전트가 역할을 분담하여 기획부터 검수, 렌더링까지 자율 수행하고 편집 가능한 HTML 구조의 매거진 페이지를 완성하는 엔드 투 엔드(End-to-End) 서비스입니다.
+* **역할:** **Vision 분석, Safe Zone 배치, 신호·인퍼런스 최적화 및 GitHub Actions를 통한 AWS EC2 CI/CD 배포**를 담당했습니다.
+* **주요 기술:** Python, Gemini 1.5 Pro, LangGraph, LangSmith, Voyage 3.5(MRL), YOLOv8, MCP, FastAPI, Docker.
+* **[GitHub Repository](https://github.com/youyou-him/AURA)**
 
-#### 1. CUBE AI (데이터 기반 고객 이탈 예측 및 마케팅 인사이트 도출)
+<br>
+
+#### 2. TRAVEL AI (랜드사 비정형 데이터 정형화 및 B2B 상담 지원 챗봇)
+* **기간:** 2025.12.04 - 2025.12.19
+* **설명:** 랜드사에서 제공하는 파편화된 비정형 데이터(Excel, PDF, 이미지)를 표준화된 JSON 데이터로 정형화하여 지식 베이스를 구축하고, 실시간 상품 추천 및 맞춤 견적을 제공하는 RAG 기반 B2B 운영 지원 솔루션입니다.
+* **역할:** **AI 모델링, RAG 시스템 아키텍처 설계 및 구축, 프론트엔드 개발**을 담당했습니다.
+* **주요 기술:** Python, Flask, Gemini 1.5 Flash, BGE-M3, FAISS, Kafka, LangChain, Tailwind CSS.
+* **[GitHub Repository](https://github.com/youyou-him/TravelAI)**
+
+<br>
+
+#### 3. CUBE AI (데이터 기반 고객 이탈 예측 및 마케팅 인사이트 도출)
 * **기간:** 2025.09.30 - 2025.10.12
 * **설명:** 브라질 Olist E-Commerce Dataset을 활용하여 BG/NBD 및 Gamma-Gamma 확률론적 모델로 고객 생애 가치(CLTV)를 예측하고, 이를 바탕으로 맞춤형 마케팅 전략을 수립한 프로젝트입니다.
 * **역할:** 데이터 분석, 백엔드 로직 설계, 최종 발표 자료 제작을 담당했습니다. [cite: 2]
@@ -63,7 +80,7 @@
 
 <br>
 
-#### 2. CARGO AI (지능형 물류 최적화 플랫폼)
+#### 4. CARGO AI (지능형 물류 최적화 플랫폼)
 * **기간:** `2025.07.07 - 2025.07.22`
 * **설명:** 전화, 문자 등 수동 배차 방식과 높은 공차율 문제를 AI로 해결하는 미들마일 물류 최적화 플랫폼입니다. [예측 - 추천 - 정산] 전 과정을 자동화합니다.
 * **역할:** **Back-end 및 AI 모델링** (LGBMRanker 기반 추천 시스템 개발 및 공정성 피처(Fairness-aware) 반영 리랭킹)
@@ -72,7 +89,7 @@
 
 <br>
 
-#### 3. AI 기반 수면 건강 코치 (AI-based Sleep Health Coach)
+#### 5. AI 기반 수면 건강 코치 (AI-based Sleep Health Coach)
 * **기간:** `2025.06.18 - 2025.06.25` 
 * **설명:** 사용자 데이터를 기반으로 수면의 질을 예측하고(LightGBM) , 사용자 유형을 분류(K-Means)하여 개인 맞춤형 수면 개선 가이드를 제공하는 Flask 기반 웹 서비스입니다. 
 * **역할:** **데이터 수집, 전처리 및 분류 모델링** (Kaggle/KNHANES 데이터 통합 [cite: 1039, 1047][cite_start], SMOTE 불균형 처리, LightGBM/RF 모델 비교 및 튜닝)
@@ -81,7 +98,7 @@
 
 <br>
 
-#### 4. 학생 학습 습관 기반 성적 예측 (Academic Performance Prediction)
+#### 6. 학생 학습 습관 기반 성적 예측 (Academic Performance Prediction)
 * **설명:** 학생의 생활 습관, 공부 시간, 정신 건강 등 요인을 기반으로 시험 점수를 예측하는 회귀 분석 프로젝트입니다. 앙상블(Voting, Stacking) 기법을 적용해 RMSE 5.53을 달성했습니다.
 * **역할:** **개인 프로젝트 (Solo Project)** (데이터 전처리, 피처 엔지니어링, 앙상블 모델 구축 및 SHAP 분석)
 * **주요 기술:** `Regression Models`, `Ensemble (Voting/Stacking)`, `Scikit-learn`, `XGBoost`, `LightGBM`
