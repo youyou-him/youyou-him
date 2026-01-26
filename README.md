@@ -1,32 +1,36 @@
 ### Training & Education
 
-* **삼성 아카데미 (Samsung Academy)** | **[ ✏️ 과정명, 예: AI/데이터 분석 과정 ]**
-  * `2025.05 - (수료 예정)`
-  * **데이터 분석 & 시각화:** `Pandas`, `Numpy`를 활용한 데이터 전처리 및 EDA, `Matplotlib`, `Seaborn`, `Plotly`, `Folium`을 이용한 고급 시각화
-  * **머신러닝:** `Scikit-learn` 기반 분류/회귀 모델링, 모델 검증(K-Fold), `PyCaret`(AutoML), `Optuna`(하이퍼파라미터 튜닝)
-  * **딥러닝 (CNN / RNN):** `TensorFlow`, `Keras`를 활용한 딥러닝 기초, CNN(이미지 분류) 및 RNN(순차 데이터) 모델 구축
-  * **NLP (자연어 처리):** 텍스트 벡터화 (`TF-IDF`, `CountVectorizer`), 워드 임베딩 (`Word2Vec`, `GloVe`, `FastText`)
-  * **백엔드/API:** `Flask`를 이용한 AI 모델 API 서버 구축 및 `REST API` 이해
+* **삼성 아카데미 (Samsung Academy)** | **AI & 데이터 분석 실무 과정**
+  * `2025.05 - 2026.02 (1,080시간 수료)`
+  * **Advanced AI & Agents:** `LangGraph` 기반 자율 순환형 에이전트 설계, `RAG` 최적화(MRL, BGE-M3, L2 Distance), `NLP` 임베딩(`Word2Vec`, `FastText`) 및 `LLM` 프롬프트 엔지니어링
+  * **ML/DL & Vision:** `Scikit-learn` 분류/회귀 모델링, `LGBMRanker` 추천 시스템, `YOLOv8` 객체 검출 및 좌표 추출, `TensorFlow/Keras` 기반 `CNN/RNN` 구축
+  * **Data Engineering & Analysis:** `PySpark`, `Hive` 대용량 데이터 처리, `Pandas/Numpy` 전처리, `Tmap API` 활용 **합성 데이터(Synthetic Data)** 생성 및 검증
+  * **Backend & Infra:** `FastAPI`, `Flask` 비동기 API 서버 구축, `Kafka` 이벤트 스트리밍, `Docker` & `AWS` CI/CD 파이프라인 운영
+  * **AutoML & Visualization:** `PyCaret`, `Optuna` 기반 모델링 자동화, `Plotly/Folium` 고급 시각화 및 `BG/NBD`, `Gamma-Gamma` 모델 활용 고객 지표(CLTV) 산출
 
 <br>
 
-* **(독학)** **Flutter & Dart Full-Stack Development**
-  * `2021.02 - 현재 (4년+)`
-  * **Dart Core:** 객체지향(OOP), Nullability, 비동기 프로그래밍(Future, async/await, Stream) 등 Dart 언어 마스터
-  * **Flutter UI/UX:** 커스텀 레이아웃, 애니메이션, 상태 관리(Provider), 라우팅(Beamer - Navigator 2.0)
-  * **App Development:** 카메라/갤러리 연동, 위치 기반 서비스(LBS), Google Maps API, 실시간 채팅
-  * **Backend (Firebase):** Firebase Authentication(Email, Facebook, Phone), Firestore(NoSQL), Firebase Storage
-  * **Infra:** HTTP 통신, 실시간 검색(Algolia), 메모리 최적화(Isolate)
+* **한양사이버대학교** | **AI 응용소프트웨어학과**
+  * `2025.03 - 현재 (재학 중)`
+
+<br>
+
+* **(Experience) Flutter & Dart Full-Stack Development**
+  * `2021.02 - 2023.10 (4년+)`
+  * **Service Foundation:** 4년간의 앱 개발 경험을 통해 프론트엔드-백엔드-DB가 맞물려 돌아가는 **전체 서비스 라이프사이클** 및 통신 구조 이해
+  * **Architecture & State:** `Provider` 기반 상태 관리 설계 및 `REST API`를 활용한 데이터 통신 아키텍처 구축 경험
+  * **Implementation:** 사용자 경험(UX)을 고려한 커스텀 레이아웃 구현 및 Google Maps API 등 실서비스 기능 연동
+  * **Backend Integration:** `Firebase(Auth, Firestore, Storage)`를 활용한 서버리스 환경의 데이터 설계 및 운영 경험
 
 ---
 
 ### Core Interests
 
-[![AI/ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://)
-[![AutoML](https://img.shields.io/badge/AutoML-90C418?style=for-the-badge&logo=PyCaret&logoColor=white)](https://)
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://)
-[![Mobile App Development](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://)
-[![Backend Development](https://img.shields.io/badge/Backend%20Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://)
+[![AI Agents & RAG](https://img.shields.io/badge/AI%20Agents%20%26%20RAG-000000?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/youyou-him)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/youyou-him)
+[![Data Analysis & Synthesis](https://img.shields.io/badge/Data%20Analysis%20%26%20Synthesis-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/youyou-him)
+[![Mobile App Development](https://img.shields.io/badge/Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/youyou-him)
+[![Python Programming](https://img.shields.io/badge/Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/youyou-him)
 
 ---
 
