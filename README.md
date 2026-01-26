@@ -78,6 +78,8 @@
   - **앙상블 시스템**: Qwen, Llama(LLM)의 추론 능력과 DeBERTa의 문맥 파악 능력을 Rank-blending으로 결합해 예측 안정성 확보
 - **인프라 최적화**: vLLM과 DeepSpeed(ZeRO-2)를 활용해 대규모 모델의 추론 및 학습 효율성 제고
   
+---
+
 ### Projects
 
 #### 1. AURA (멀티 에이전트 협업 기반 지능형 매거진 자동 디자인 솔루션)
