@@ -16,7 +16,7 @@
 <br>
 
 * **(Experience) Flutter & Dart Full-Stack Development**
-  * `2021.02 - 2023.10 (4년+)`
+  * `2020.02 - 2023.10 (4년+)`
   * **Service Foundation:** 4년간의 앱 개발 경험을 통해 프론트엔드-백엔드-DB가 맞물려 돌아가는 **전체 서비스 라이프사이클** 및 통신 구조 이해
   * **Architecture & State:** `Provider` 기반 상태 관리 설계 및 `REST API`를 활용한 데이터 통신 아키텍처 구축 경험
   * **Implementation:** 사용자 경험(UX)을 고려한 커스텀 레이아웃 구현 및 Google Maps API 등 실서비스 기능 연동
