@@ -129,7 +129,7 @@
 
 #### 6. 학생 학습 습관 기반 성적 예측 (Academic Performance Prediction)
 * **기간:** `2025.10.08 - 2025.10.15`
-* **설명:** 학생의 생활 습관, 공부 시간, 출석률 등 다변량 데이터를 기반으로 시험 점수를 예측하는 회귀 분석 프로젝트입니다. Ridge/Lasso 규제와 Voting/Stacking 앙상블을 결합하여 RMSE 5.53(±0.2)의 고정밀 예측을 달성했으며, SHAP 분석을 통해 성적 결정 핵심 요인을 시각적으로 규명했습니다.
+* **설명:** 학생의 생활 습관, 공부 시간, 정신 건강 등 요인을 기반으로 시험 점수를 예측하는 회귀 분석 프로젝트입니다. Ridge/Lasso 규제와 Voting/Stacking 앙상블을 결합하여 RMSE 5.53(±0.2)의 고정밀 예측을 달성했으며, SHAP 분석을 통해 성적 결정 핵심 요인을 시각적으로 규명했습니다.
 * **역할:** **개인 프로젝트** (데이터 전처리, 피처 엔지니어링, 앙상블 모델 구축 및 SHAP 분석)
 * **주요 기술:** `Regression Models`, `Ensemble (Voting/Stacking)`, `Scikit-learn`, `XGBoost`, `LightGBM`
 * **[GitHub Repository](https://github.com/youyou-him/student_habits)**
