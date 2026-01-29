@@ -27,7 +27,7 @@
 ### Awards & Certifications
 
 * **AI 추천 기반 실시간 화물차 매칭 플랫폼 최우수상** | 삼성 아카데미
-    * `2025.07.22` | **최우수상 (1위)** 수상
+    * `2025.07.22` | **최우수상** 수상
     * 화물차와 화주 간의 실시간 매칭 최적화 알고리즘 설계 및 추천 시스템 구축 역량 인정
 
 * **Kaggle Bronze Medal** | Jigsaw - Agile Community Rules Classification
