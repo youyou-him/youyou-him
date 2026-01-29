@@ -31,8 +31,7 @@
     * 화물차와 화주 간의 실시간 매칭 최적화 알고리즘 설계 및 추천 시스템 구축 역량 인정
 
 * **Kaggle Bronze Medal** | Jigsaw - Agile Community Rules Classification
-    * `2025.10` | **전 세계 123위 / 2,445팀 (상위 5%)** 기록
-    * LLM(Qwen, Llama) 파인튜닝 및 대조 학습(Triplet Loss) 기반의 고정밀 분류 모델 구현
+    * 자세한 내용은 아래 참
 
 * **단기특강 캠프 해커톤 대상** | 문화기술아카데미
     * `2023.08.25` | **대상** 수상
@@ -68,7 +67,8 @@
 | **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 | **Tools & IDEs** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white) |
 ---
-### Jigsaw: Agile Community Rules Classification | Kaggle Bronze Medal (123위 / 2,445팀)
+### Kaggle Competition Highlights 
+#### Jigsaw: Agile Community Rules Classification | Kaggle Bronze Medal (123위 / 2,445팀)
 * **LLM 및 다양한 NLP 모델을 활용한 규칙 위반 자동 분류 시스템 개발** (2025.10)
 * **기간:** 2025.07.28 - 2025.10.24
 - **핵심 성과**: 상위 5% 기록으로 Bronze Medal 수상 (최종 스코어 0.92154)
@@ -128,8 +128,9 @@
 <br>
 
 #### 6. 학생 학습 습관 기반 성적 예측 (Academic Performance Prediction)
-* **설명:** 학생의 생활 습관, 공부 시간, 정신 건강 등 요인을 기반으로 시험 점수를 예측하는 회귀 분석 프로젝트입니다. 앙상블(Voting, Stacking) 기법을 적용해 RMSE 5.53을 달성했습니다.
-* **역할:** **개인 프로젝트 (Solo Project)** (데이터 전처리, 피처 엔지니어링, 앙상블 모델 구축 및 SHAP 분석)
+* **기간:** `2025.10.08 - 2025.10.15`
+* **설명:** 학생의 생활 습관, 공부 시간, 출석률 등 다변량 데이터를 기반으로 시험 점수를 예측하는 회귀 분석 프로젝트입니다. Ridge/Lasso 규제와 Voting/Stacking 앙상블을 결합하여 RMSE 5.53(±0.2)의 고정밀 예측을 달성했으며, SHAP 분석을 통해 성적 결정 핵심 요인을 시각적으로 규명했습니다.
+* **역할:** **개인 프로젝트** (데이터 전처리, 피처 엔지니어링, 앙상블 모델 구축 및 SHAP 분석)
 * **주요 기술:** `Regression Models`, `Ensemble (Voting/Stacking)`, `Scikit-learn`, `XGBoost`, `LightGBM`
 * **[GitHub Repository](https://github.com/youyou-him/student_habits)**
 
