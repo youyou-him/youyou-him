@@ -31,7 +31,7 @@
     * 화물차와 화주 간의 실시간 매칭 최적화 알고리즘 설계 및 추천 시스템 구축 역량 인정
 
 * **Kaggle Bronze Medal** | Jigsaw - Agile Community Rules Classification
-    * 자세한 내용은 아래 참
+    * 자세한 내용은 아래 참조
 
 * **단기특강 캠프 해커톤 대상** | 문화기술아카데미
     * `2023.08.25` | **대상** 수상
