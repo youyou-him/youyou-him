@@ -1,6 +1,6 @@
 ### Training & Education
 
-* **삼성 아카데미 (Samsung Academy)** | **AI & 데이터 분석 실무 과정**
+* **삼성에이엑스아이 (Samsung AXI)** | **AI & 데이터 분석 실무 과정**
   * `2025.05 - 2026.02 (1,080시간 수료)`
   * **Advanced AI & Agents:** `LangGraph` 기반 자율 순환형 에이전트 설계, `RAG` 최적화(MRL, BGE-M3, L2 Distance), `NLP` 임베딩(`Word2Vec`, `FastText`) 및 `LLM` 프롬프트 엔지니어링
   * **ML/DL & Vision:** `Scikit-learn` 분류/회귀 모델링, `LGBMRanker` 추천 시스템, `YOLOv8` 객체 검출 및 좌표 추출, `TensorFlow/Keras` 기반 `CNN/RNN` 구축
@@ -26,7 +26,7 @@
 
 ### Awards & Certifications
 
-* **AI 추천 기반 실시간 화물차 매칭 플랫폼 최우수상** | 삼성 아카데미
+* **AI 추천 기반 실시간 화물차 매칭 플랫폼 최우수상** | 삼성에이엑스아이
     * `2025.07.22` | **최우수상** 수상
     * 화물차와 화주 간의 실시간 매칭 최적화 알고리즘 설계 및 추천 시스템 구축 역량 인정
 
@@ -83,7 +83,7 @@
 ### Projects
 
 #### 1. AURA (멀티 에이전트 협업 기반 지능형 매거진 자동 디자인 솔루션)
-* **기간:** 2025.12.24 - 2026.01.15
+* **기간:** 2025.12.03 ~ 2026.02.05 
 * **설명:** 텍스트와 이미지를 입력하면 멀티 에이전트가 역할을 분담하여 기획부터 검수, 렌더링까지 자율 수행하고 편집 가능한 HTML 구조의 매거진 페이지를 완성하는 엔드 투 엔드(End-to-End) 서비스입니다.
 * **역할:** **Vision 분석, Safe Zone 배치, 신호·인퍼런스 최적화 및 GitHub Actions를 통한 AWS EC2 CI/CD 배포**를 담당했습니다.
 * **주요 기술:** Python, Gemini 1.5 Pro, LangGraph, LangSmith, Voyage 3.5(MRL), YOLOv8, MCP, FastAPI, Docker.
@@ -92,7 +92,7 @@
 <br>
 
 #### 2. TRAVEL AI (랜드사 비정형 데이터 정형화 및 B2B 상담 지원 챗봇)
-* **기간:** 2025.12.04 - 2025.12.19
+* **기간:** 2025.11.07 ~ 2025.11.24
 * **설명:** 랜드사에서 제공하는 파편화된 비정형 데이터(Excel, PDF, 이미지)를 표준화된 JSON 데이터로 정형화하여 지식 베이스를 구축하고, 실시간 상품 추천 및 맞춤 견적을 제공하는 RAG 기반 B2B 운영 지원 솔루션입니다.
 * **역할:** **AI 모델링, RAG 시스템 아키텍처 설계 및 구축, 프론트엔드 개발**을 담당했습니다.
 * **주요 기술:** Python, Flask, Gemini 1.5 Flash, BGE-M3, FAISS, Kafka, LangChain, Tailwind CSS.
@@ -101,7 +101,7 @@
 <br>
 
 #### 3. CUBE AI (데이터 기반 고객 이탈 예측 및 마케팅 인사이트 도출)
-* **기간:** 2025.09.30 - 2025.10.12
+* **기간:** 2025.09.22 ~ 2025.10.08
 * **설명:** 브라질 Olist E-Commerce Dataset을 활용하여 BG/NBD 및 Gamma-Gamma 확률론적 모델로 고객 생애 가치(CLTV)를 예측하고, 이를 바탕으로 맞춤형 마케팅 전략을 수립한 프로젝트입니다.
 * **역할:** 데이터 분석, 백엔드 로직 설계, 최종 발표 자료 제작을 담당했습니다. [cite: 2]
 * **주요 기술:** BG/NBD, Gamma-Gamma (CLTV 모델), GBM, ApexCharts (시각화), Tailwind CSS (대시보드), Python.
