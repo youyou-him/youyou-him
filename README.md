@@ -19,6 +19,16 @@ Flutter 기반 서비스 개발 경험을 바탕으로
 - 상태 중심(State-driven) 시스템 설계
 - Docker 및 EC2 환경 배포 실습 경험
 
+## Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Agent & RAG** | LangGraph, LangChain, Gemini, FAISS, BGE-M3 |
+| **ML & Modeling** | LightGBM, XGBoost, Scikit-learn, SHAP |
+| **Data Engineering** | Pandas, PySpark, Hive |
+| **Backend** | FastAPI, Flask |
+| **Infra** | Docker, AWS EC2, GitHub Actions |
+| **Mobile (Previous)** | Flutter, Firebase |
 ---
 
 # Projects
