@@ -21,14 +21,57 @@ Flutter 기반 서비스 개발 경험을 바탕으로
 
 ## Tech Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| **Agent & RAG** | LangGraph, LangChain, Gemini, FAISS, BGE-M3 |
-| **ML & Modeling** | LightGBM, XGBoost, Scikit-learn, SHAP |
-| **Data Engineering** | Pandas, PySpark, Hive |
-| **Backend** | FastAPI, Flask |
-| **Infra** | Docker, AWS EC2, GitHub Actions |
-| **Mobile (Previous)** | Flutter, Firebase |
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+### AI Agents & RAG
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge)
+![BGE-M3](https://img.shields.io/badge/BGE--M3-FF6F00?style=for-the-badge)
+
+---
+
+### Machine Learning & Modeling
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9C27B0?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-006B00?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=for-the-badge)
+
+---
+
+### Deep Learning & Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
+
+---
+
+### Data & Engineering
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+
+---
+
+### Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Mobile (Previous Experience)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 
 # Projects
