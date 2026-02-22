@@ -3,21 +3,23 @@
 LangGraph 기반 멀티 에이전트 설계와  
 데이터 기반 실험을 통해 구조적으로 문제를 해결하는 AI 개발자입니다.
 
-모델 성능 개선, RAG 최적화, 상태 중심 설계를 수행하며  
+RAG 최적화, 모델 성능 개선, 상태 중심 설계를 수행하며  
 설계 → 구현 → 검증까지 전 과정을 직접 경험해왔습니다.
 
-Flutter 기반 서비스 개발 경험을 바탕으로  
+Flutter 기반 서비스 아키텍처 경험을 바탕으로  
 시스템 구조와 데이터 흐름을 고려한 설계를 지향합니다.
 
 ---
 
 ## Core Strengths
 
-- Multi-Agent 구조 설계 (LangGraph)
-- RAG 검색 전략 실험 및 벡터 최적화
+- LangGraph 기반 Multi-Agent Graph 설계
+- Retrieval → Re-ranking → Generation 구조 최적화
 - ML 모델 성능 개선 및 SHAP 기반 해석
-- 상태 중심(State-driven) 시스템 설계
-- Docker 및 EC2 환경 배포 실습 경험
+- 상태 중심(State-driven) 시스템 아키텍처 설계
+- Docker 및 EC2 배포 실습 경험
+
+---
 
 ## Tech Stack
 
@@ -49,11 +51,10 @@ Flutter 기반 서비스 개발 경험을 바탕으로
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
 
 ---
 
-### Data & Engineering
+### Data Engineering
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -61,17 +62,12 @@ Flutter 기반 서비스 개발 경험을 바탕으로
 
 ---
 
-### Backend & Infra
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### Mobile (Previous Experience)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 
 # Projects
@@ -83,9 +79,7 @@ Flutter 기반 서비스 개발 경험을 바탕으로
 - Planning → Tool 호출 → Self-Validation 순환 구조 구현
 - TypedDict 기반 상태 스키마 정의
 - Vision 분석 및 Safe Zone 좌표 추출 로직 설계
-- GitHub Actions 기반 CI 구성 및 AWS EC2 배포 실습
-
-Tech: Python, LangGraph, Gemini, YOLOv8, FastAPI, Docker
+- GitHub Actions 기반 CI 구성 및 EC2 배포 실습
 
 🔗 https://github.com/youyou-him/AURA
 
@@ -99,8 +93,6 @@ Tech: Python, LangGraph, Gemini, YOLOv8, FastAPI, Docker
 - 벡터 검색 품질 비교 실험 및 임계값 기반 fallback 로직 구현
 - Kafka 기반 비동기 처리 구조 구현
 
-Tech: Python, Flask, Gemini, BGE-M3, FAISS, Kafka
-
 🔗 https://github.com/youyou-him/TravelAI
 
 ---
@@ -112,8 +104,6 @@ Tech: Python, Flask, Gemini, BGE-M3, FAISS, Kafka
 - GBM 기반 이탈 예측 모델 구축
 - SHAP 분석을 통한 핵심 영향 변수 해석
 - 상관계수 개선 및 RMSE 감소 실험 수행
-
-Tech: LightGBM, Scikit-learn, SHAP, Python
 
 🔗 https://github.com/youyou-him/CUBE_AI
 
@@ -147,59 +137,51 @@ LGBMRanker 기반 추천 시스템 프로젝트
 
 - REST API 기반 모바일 아키텍처 설계
 - Provider 기반 상태 관리 구조 구현
-- Firebase(Auth, Firestore, Storage) 서버리스 운영 경험
+- Firebase(Auth, Firestore, Storage) 기반 서비스 운영 경험
 - 프론트-백엔드-DB 전체 서비스 흐름 이해
 
-> 해당 경험은 현재 LangGraph 기반 상태 중심 설계로 확장되었습니다.
+> 해당 경험은 LangGraph 기반 상태 중심 설계로 확장되었습니다.
 
 ---
 
 ## 닷밀 3D Graphics 실무 경험 (1개월)
 
 - 3D 모델링 및 렌더링 파이프라인 참여
-- 시각적 구조 이해 및 디자인 협업 경험
+- 디자인-엔지니어링 협업 경험
 
 > Vision 기반 레이아웃 설계 로직 구현에 기여
 
 ---
 
-# Training
-
-## Education
+# Education
 
 ### 한양사이버대학교 | AI 응용소프트웨어학과 (재학 중)
-- AI 응용 이론 및 소프트웨어 설계 학습
-- 통계, 알고리즘, 데이터 구조 기반 이론 보완
-- 프로젝트 기반 실습과 병행하여 이론-실전 균형 강화
 
 ---
 
-## 삼성에이엑스아이 (AI & 데이터 분석 실무 과정, 1,080시간)
+# Professional Training
+
+### 삼성에이엑스아이 | AI & 데이터 분석 실무 과정 (1,080시간)
 
 - LangGraph 기반 멀티 에이전트 설계
 - RAG 최적화 및 벡터 검색 실습
 - ML/DL 모델링 및 성능 개선
-- Docker 및 AWS 배포 실습
 
 ---
 
 # Achievements
 
 - Kaggle Bronze Medal (Top 5%, 123/2445)
-- AI 추천 기반 실시간 매칭 플랫폼 최우수상 (삼성에이엑스아이)
+- AI 추천 기반 실시간 매칭 플랫폼 최우수상
 
 ---
 
-# Tech Stack
+## GitHub Activity
 
-Agent: LangGraph, LangChain  
-LLM: Gemini  
-Vector: FAISS, BGE-M3  
-ML: LightGBM, XGBoost, Scikit-learn  
-Backend: FastAPI, Flask  
-Infra: Docker, AWS EC2  
-Data: Pandas, PySpark, Hive
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youyou-him&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
 
 ---
 
-Email: youyou28769@gmail.com  
+Email: youyou28769@gmail.com
