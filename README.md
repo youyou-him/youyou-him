@@ -150,4 +150,3 @@ Data: Pandas, PySpark, Hive
 ---
 
 Email: youyou28769@gmail.com  
-Portfolio: https://www.notion.so/2af4d98033f780f7a8a1ede71e462762
